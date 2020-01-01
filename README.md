@@ -1,2 +1,2 @@
 # flask-webapp
-Simple Python WebApp with additional dockerfile
+Simple Python WebApp with additional dockerfile.
